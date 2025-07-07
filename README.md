@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0001-two-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0001-two-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Design
 |  |
