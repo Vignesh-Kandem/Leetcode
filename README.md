@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
