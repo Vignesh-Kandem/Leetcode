@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0066-plus-one) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0013-roman-to-integer) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Design
 |  |
 | ------- |
@@ -57,10 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Tree
 |  |
 | ------- |
