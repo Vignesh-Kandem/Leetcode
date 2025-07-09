@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0066-plus-one) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0056-merge-intervals) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Two Pointers
