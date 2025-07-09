@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0066-plus-one) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Dynamic Programming
 |  |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
