@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0047-permutations-ii) |
+## Greedy
+|  |
+| ------- |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 <!---LeetCode Topics End-->
