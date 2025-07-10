@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0056-merge-intervals) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0056-merge-intervals) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0015-3sum) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Tree
 |  |
