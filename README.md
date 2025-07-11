@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0056-merge-intervals) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Tree
 |  |
