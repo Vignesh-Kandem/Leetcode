@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0047-permutations-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0035-search-insert-position) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Dynamic Programming
 |  |
