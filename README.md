@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0066-plus-one) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
