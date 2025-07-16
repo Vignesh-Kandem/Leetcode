@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0070-climbing-stairs) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## String
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0070-climbing-stairs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0070-climbing-stairs) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Data Stream
 |  |
