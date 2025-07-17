@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0079-word-search) |
 | [3396-valid-word](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3396-valid-word) |
 ## Linked List
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0079-word-search) |
 ## Greedy
 |  |
 | ------- |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Combinatorics
 |  |
