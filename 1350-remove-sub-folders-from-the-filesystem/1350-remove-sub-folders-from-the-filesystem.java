@@ -1,4 +1,4 @@
-public class Solution {
+class Solution {
     public List<String> removeSubfolders(String[] folder) {
         Arrays.sort(folder);
         List<String> result = new ArrayList<>();
