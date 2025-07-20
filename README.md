@@ -195,11 +195,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0100-same-tree) |
+| [0207-course-schedule](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0207-course-schedule) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0100-same-tree) |
+| [0207-course-schedule](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -296,4 +298,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
