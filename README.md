@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0036-valid-sudoku) |
+| [0205-isomorphic-strings](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3396-valid-word) |
