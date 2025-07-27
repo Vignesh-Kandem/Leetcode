@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3396-valid-word) |
 ## Linked List
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0085-maximal-rectangle) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0179-largest-number) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
