@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0179-largest-number) |
 | [0327-count-of-range-sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0327-count-of-range-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0136-single-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Memoization
