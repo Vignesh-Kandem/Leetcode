@@ -5,12 +5,13 @@ class Solution {
             int num = nums[i];
             if (maxVal < num) {
                 maxVal = num;
-                a = c = 0;
+                a=0;
+                c=0; 
             }
             if (maxVal == num) {
                 c++;
             } else {
-                c = 0;
+                c=0;
             }
             a = Math.max(a,c);
         }
