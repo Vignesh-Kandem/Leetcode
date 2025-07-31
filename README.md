@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0179-largest-number) |
 | [0327-count-of-range-sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0327-count-of-range-sum) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1813-maximum-erasure-value](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0137-single-number-ii) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
