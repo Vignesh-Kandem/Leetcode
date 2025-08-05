@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3790-fruits-into-baskets-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0067-add-binary) |
 | [2479-meeting-rooms-iii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0327-count-of-range-sum) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0327-count-of-range-sum) |
+| [3790-fruits-into-baskets-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Brainteaser
 |  |
 | ------- |
