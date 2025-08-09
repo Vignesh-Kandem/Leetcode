@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0326-power-of-three) |
 ## Sliding Window
 |  |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
