@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2529-range-product-queries-of-powers](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Memoization
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Matrix
 |  |
