@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## String
 |  |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0179-largest-number) |
+| [1448-maximum-69-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2689-rearranging-fruits) |
