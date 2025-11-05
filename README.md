@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0283-move-zeroes) |
 | [0327-count-of-range-sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0327-count-of-range-sum) |
+| [0485-max-consecutive-ones](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
