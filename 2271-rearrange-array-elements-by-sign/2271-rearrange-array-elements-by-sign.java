@@ -2,8 +2,8 @@ class Solution {
     public int[] rearrangeArray(int[] nums) {
         int n=nums.length;
         int[] res=new int[n];
-        int posIndex=1;
         int negIndex=0;
+        int posIndex=1;
         for(int i=0;i<n;i++) {
             if(nums[i]>0) {
                 res[negIndex]=nums[i];
