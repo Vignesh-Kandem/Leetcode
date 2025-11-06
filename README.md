@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0268-missing-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0268-missing-number) |
 | [0900-reordered-power-of-2](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0268-missing-number) |
 | [0900-reordered-power-of-2](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0327-count-of-range-sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0327-count-of-range-sum) |
@@ -452,5 +456,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
