@@ -19,7 +19,7 @@ class Solution {
         int count=0;
         int right=mid+1;
         for(int i=low;i<mid+1;i++) {
-            while (right <= high && (long) arr[i] > 2L * arr[right]) { // ✅ overflow-safe
+            while (right <= high && (long) arr[i] > 2L * arr[right]) {
                 right++;
             }
             count+=(right-(mid+1)); 
