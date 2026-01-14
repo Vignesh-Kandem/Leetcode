@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1813-maximum-erasure-value](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0268-missing-number) |
 | [0900-reordered-power-of-2](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
