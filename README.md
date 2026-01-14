@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1813-maximum-erasure-value](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
