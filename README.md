@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1901-find-a-peak-element-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1901-find-a-peak-element-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Combinatorics
 |  |
