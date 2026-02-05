@@ -1,25 +1,23 @@
 class Solution {
-    static HashSet<List<Integer>> hs = new HashSet<>();
-    public void combinationSum(int cand[] , int tar , List<List<Integer>> res , List<Integer> cur , int ind){
-            int n = cand.length;
-            if(ind == n || tar<0) return;
-            if(tar == 0) {
-                if(!hs.contains(cur)) {
-                Collections.sort(new ArrayList<>(cur));
-                    hs.add(cur); 
-                    res.add(new ArrayList<>(cur));
-                }
-                return;
+    public void findCombo(int cand[],int tar,List<List<Integer>> res,List<Integer> ds,
+                               int index) {
+        int n=cand.length;
+        if(index==n) {
+            if(tar==0) {
+                res.add(new ArrayList<>(ds));
             }
-            cur.add(cand[ind]);
-            combinationSum(cand , tar-cand[ind] , res , cur ,ind+1);
-            combinationSum(cand , tar-cand[ind] , res , cur,  ind);
-            cur.remove(cur.size()-1);
-            combinationSum(cand , tar , res , cur , ind+1);
+            return;
+        }    
+        if(cand[index]<=tar) {
+            ds.add(cand[index]);
+            findCombo(cand,tar-cand[index],res,ds,index);
+            ds.remove(ds.size()-1);
+        }
+        findCombo(cand,tar,res,ds,index+1);
     }
     public List<List<Integer>> combinationSum(int[] cand, int tar) { 
         List<List<Integer>> res = new ArrayList<>();
-        combinationSum(cand , tar , res , new ArrayList<>() , 0);
+        findCombo(cand,tar,res,new ArrayList<>(),0);
         return res;
     }
 }
