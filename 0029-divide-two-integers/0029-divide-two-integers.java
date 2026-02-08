@@ -1,17 +1,24 @@
 class Solution {
     public int divide(int dividend, int divisor) {
-        if (dividend == Integer.MIN_VALUE && divisor == -1) {
-            return Integer.MAX_VALUE;
+        if(divisor==-1) {
+            if(dividend==Integer.MIN_VALUE) return Integer.MAX_VALUE;
+            return -dividend;
         }
-        long a = Math.abs((long) dividend);
-        long b = Math.abs((long) divisor);
-        int result = 0;
-        for (int i = 31; i >= 0; i--) {
-            if ((a >> i) >= b) {
-                a -= b << i;
-                result += 1 << i;
-            }
+        if(dividend==divisor) return 1;
+        boolean sign=true;
+        if(dividend>=0 && divisor<0) sign=false;
+        if(dividend<0 && divisor>0) sign=false;
+        long n=Math.abs((long)dividend);
+        long d=Math.abs((long)divisor);
+        long ans=0;
+        while(n>=d) {
+            int count=0;
+            while(n>=(d<<(count+1))) count++;
+            ans+=(1L<<count);
+            n=n-(d<<count);
         }
-        return ((dividend > 0) ^ (divisor > 0)) ? -result : result;
+        if(ans>=Integer.MAX_VALUE && sign==true) return Integer.MAX_VALUE;
+        if(ans>=Integer.MAX_VALUE && sign==false) return Integer.MIN_VALUE;
+        return sign?(int)ans:(int)(-ans);
     }
 }
