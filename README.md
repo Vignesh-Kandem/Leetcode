@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0268-missing-number) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0326-power-of-three) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -574,4 +577,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0229-majority-element-ii) |
 | [0900-reordered-power-of-2](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0900-reordered-power-of-2) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
