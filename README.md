@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Math
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0225-implement-stack-using-queues](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Divide and Conquer
@@ -581,4 +583,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0204-count-primes) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
