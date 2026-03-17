@@ -1,29 +1,38 @@
 class Solution {
-    public int maximalRectangle(char[][] matrix) {
-        if (matrix.length == 0) return 0;
-        int cols = matrix[0].length;
-        int[] heights = new int[cols];
-        int maxArea = 0;
-        for (char[] row : matrix) {
-            for (int j = 0; j < cols; j++) {
-                heights[j] = row[j] == '1' ? heights[j] + 1 : 0;
+    public int largestRectangleArea(int[] heights) {
+        int n=heights.length;
+        Stack<Integer> st=new Stack<>();
+        int maxArea=0;
+        for(int i=0;i<n;i++) {
+            while(!st.isEmpty() && heights[st.peek()]>heights[i]) {
+                int element=st.pop();
+                int nse=i;
+                int pse=st.isEmpty()?-1:st.peek();
+                maxArea=Math.max(maxArea,(heights[element]*(nse-pse-1)));
             }
-            maxArea = Math.max(maxArea, largestRectangleArea(heights));
+            st.push(i);
+        }
+        while(!st.isEmpty()) {
+            int nse=n;
+            int element=st.pop();
+            int pse=st.isEmpty()?-1:st.peek();
+            maxArea=Math.max(maxArea,(heights[element]*(nse-pse-1)));
         }
         return maxArea;
     }
-    private int largestRectangleArea(int[] heights) {
-        Stack<Integer> stack = new Stack<>();
-        int maxArea = 0;
-        int[] h = Arrays.copyOf(heights, heights.length + 1);
-        for (int i = 0; i < h.length; i++) {
-            while (!stack.isEmpty() && h[i] < h[stack.peek()]) {
-                int height = h[stack.pop()];
-                int width = stack.isEmpty() ? i : i - stack.peek() - 1;
-                maxArea = Math.max(maxArea, height * width);
+    public int maximalRectangle(char[][] matrix) {
+        int n=matrix.length;
+        int m=matrix[0].length;
+        int maxi=0;
+        int height[]=new int[m];
+        for(int i=0;i<n;i++) {
+            for(int j=0;j<m;j++) {
+                if(matrix[i][j]=='1') height[j]++;
+                else height[j]=0;
             }
-            stack.push(i);
+            int area=largestRectangleArea(height);
+            maxi=Math.max(maxi,area);
         }
-        return maxArea;
+        return maxi;
     }
 }
