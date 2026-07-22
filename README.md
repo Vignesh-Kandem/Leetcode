@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0283-move-zeroes) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0867-new-21-game](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Simulation
@@ -622,8 +625,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Geometry
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0593-valid-square) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
