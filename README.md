@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1291-sequential-digits](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1291-sequential-digits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
