@@ -17,7 +17,7 @@
 } */
 
 // Using Tabulation...
-class Solution {
+/* class Solution {
     public int climbStairs(int n) {
         int dp[]=new int[n+2];
         dp[n+1]=0;
@@ -28,5 +28,20 @@ class Solution {
             dp[i]=n1+n2;
         }
         return dp[0];
+    }
+} */
+
+// Using Tabulation(With Space optimization)...
+class Solution {
+    public int climbStairs(int n) {
+        if(n<=2) return n;
+        int prev2=1;
+        int prev=2;
+        for(int i=3;i<=n;i++) {
+            int current=prev+prev2;
+            prev2=prev;
+            prev=current;
+        }
+        return prev;
     }
 }
