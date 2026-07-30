@@ -1,4 +1,5 @@
-class Solution {
+// Using Memoization...
+/* class Solution {
     public int climbStairs(int n) {
         int dp[]=new int[n];
         Arrays.fill(dp,-1);
@@ -12,5 +13,20 @@ class Solution {
         int n2=helper(i+2,n,dp);
         dp[i]=n1+n2;
         return dp[i];
+    }
+} */
+
+// Using Tabulation...
+class Solution {
+    public int climbStairs(int n) {
+        int dp[]=new int[n+2];
+        dp[n+1]=0;
+        dp[n]=1;
+        for(int i=n-1;i>=0;i--) {
+            int n1=dp[i+1];
+            int n2=dp[i+2];
+            dp[i]=n1+n2;
+        }
+        return dp[0];
     }
 }
