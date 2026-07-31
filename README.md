@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0207-course-schedule) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Vignesh-Kandem/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -664,4 +668,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0460-lfu-cache) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
