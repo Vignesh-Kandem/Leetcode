@@ -6,7 +6,7 @@ class Solution {
         int fresh=0;
         for(int i=0;i<m;i++) {
             for(int j=0;j<n;j++) {
-                if(grid[i][j]==2) dq.offer(new int[]{i,j});
+                if(grid[i][j]==2) dq.addLast(new int[]{i,j});
                 else if(grid[i][j]==1) fresh++;
             }
         } 
@@ -30,7 +30,7 @@ class Solution {
                     if(nr>=0 && nr<m && nc>=0 && nc<n && grid[nr][nc]==1) {
                         grid[nr][nc]=2;
                         fresh--;
-                        dq.offer(new int[]{nr,nc});
+                        dq.addLast(new int[]{nr,nc});
                     }
                 }
             }
