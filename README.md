@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0743-network-delay-time) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Breadth-First Search
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Tree
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0743-network-delay-time](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -682,4 +685,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
