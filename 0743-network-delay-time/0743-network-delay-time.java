@@ -1,5 +1,6 @@
 class Solution {
     public int networkDelayTime(int[][] times, int n, int k) {
+        // Conversion of edge list to adjacency list.
         ArrayList<ArrayList<int[]>> graph=new ArrayList<>();
         for(int i=0;i<=n;i++) {
             graph.add(new ArrayList<>());
@@ -11,6 +12,8 @@ class Solution {
             int w=edge[2];
             graph.get(u).add(new int[]{v,w});
         }
+        
+        // Dijkstra's Algorithm.
         PriorityQueue<int[]> pq=new PriorityQueue<>((a,b)->a[0]-b[0]);
         int dist[]=new int[n+1];
         Arrays.fill(dist,Integer.MAX_VALUE);
