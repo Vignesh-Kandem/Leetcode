@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0983-minimum-cost-for-tickets](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0867-new-21-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0983-minimum-cost-for-tickets](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1013-fibonacci-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1013-fibonacci-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
