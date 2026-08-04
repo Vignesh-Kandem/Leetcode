@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0735-asteroid-collision) |
+| [0778-swim-in-rising-water](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0704-binary-search) |
+| [0778-swim-in-rising-water](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Breadth-First Search
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0542-01-matrix) |
 | [0743-network-delay-time](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Tree
@@ -518,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -592,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0542-01-matrix) |
+| [0778-swim-in-rising-water](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -692,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0778-swim-in-rising-water) |
 ## Graph Theory
 |  |
 | ------- |
@@ -704,4 +711,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0127-word-ladder) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0778-swim-in-rising-water) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
