@@ -30,7 +30,7 @@
 } */
 
 // Tabulation.
-class Solution {
+/* class Solution {
     public int minimumTotal(List<List<Integer>> triangle) {
         int n=triangle.size();
         int dp[][]=new int[n][n];
@@ -43,5 +43,24 @@ class Solution {
             }
         }
         return dp[0][0];
+    }
+} */
+
+// Tabulation(With space optimization).
+class Solution {
+    public int minimumTotal(List<List<Integer>> triangle) {
+        int n=triangle.size();
+        int prev[]=new int[n];
+        for(int b=0;b<n;b++) prev[b]=triangle.get(n-1).get(b);
+        for(int i=n-2;i>=0;i--) {
+            int curr[]=new int[n];
+            for(int j=0;j<=i;j++) {
+                int down=prev[j];
+                int diagonal=prev[j+1];
+                curr[j]=triangle.get(i).get(j)+Math.min(down,diagonal);
+            }
+            prev=curr;
+        }
+        return prev[0];
     }
 }
