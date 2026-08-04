@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0593-valid-square) |
 | [0826-soup-servings](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vignesh-Kandem/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0542-01-matrix) |
 | [0826-soup-servings](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0983-minimum-cost-for-tickets](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
@@ -715,8 +718,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0877-stone-game](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0877-stone-game) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0778-swim-in-rising-water) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vignesh-Kandem/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
